@@ -51,3 +51,8 @@ Here are some ideas to get you started:
 ![https://www.linkedin.com/in/nanda-garin-raditya/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![www.instagran/nan.rein](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NandaGarin/NandaGarin/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NandaGarin/NandaGarin/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NandaGarin/NandaGarin/output/pacman-contribution-graph.svg">
+</picture>
